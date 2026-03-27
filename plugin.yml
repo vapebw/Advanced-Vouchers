@@ -1,4 +1,4 @@
-name: Vouchers
+name: AdvancedVouchers
 version: 1.0.0
 main: vape\vouchers\VoucherPlugin
 api: 5.0.0
